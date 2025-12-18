@@ -1,4 +1,3 @@
-
 export interface Task {
   id: string;
   text: string;
@@ -17,3 +16,4 @@ export enum TimerStatus {
   BREAK = 'Break',
   LUNCH = 'Lunch Break'
 }
+
